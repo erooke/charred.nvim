@@ -1,3 +1,8 @@
+# Archived
+
+Don't use this, use [guard.nvim](https://github.com/nvimdev/guard.nvim) or
+something else.
+
 # charred.nvim
 
 A simple plugin to automatically format python code.
